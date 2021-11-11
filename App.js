@@ -9,6 +9,9 @@ import {
   RefreshingContext,
 } from "./Components/helpers/Context";
 
+function test ( ) { return}
+
+test();
 
 export default function App() {
   const [loading, setLoading] = React.useState(true);
